@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -38,3 +39,6 @@ Book List Page
 
 
 Prototype URL : https://master.d1vp0q4n6mkwe.amplifyapp.com/
+=======
+# E-Book-Store
+>>>>>>> 730b533295b09ddf9c04f217e6ef1f5609ae02e7
